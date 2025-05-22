@@ -14,4 +14,4 @@ Plantar Sementes: Clique na tela onde deseja plantar as sementes (pressionando a
 Evitar Erros: Plante as sementes de forma espaçada corretamente, caso contrário, você perderá pontos.
 Fim do Jogo: O jogo termina quando o tempo acaba. Pressione R para reiniciar.
 
-esse projeto foi feito com a ajuda do chat gpt e ajustei alguns codigos
+esse projeto foi feito pelo chat gpt, ajustei alguns codigos
